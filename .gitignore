@@ -1,0 +1,12 @@
+# File temporanei e di log
+*.tmp
+*.log
+
+# File di configurazione con dati riservati
+.env
+.env.*
+
+# Database SQLite locali
+*.sqlite
+*.sqlite3
+*.db
